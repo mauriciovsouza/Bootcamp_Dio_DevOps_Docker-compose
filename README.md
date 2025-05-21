@@ -1,6 +1,6 @@
 ### Projeto WordPress com PHP, Nginx e MariaDB – Docker Compose
 
-Este é um exemplo prático de uso do Docker Compose para rodar um ambiente com **PHP + Nginx**, utilizando o **repositório oficial do WordPress** e o **MariaDB** como banco de dados.
+Utilizei um docker-compose para rodar um ambiente com **PHP + Nginx**, utilizando o **repositório oficial do WordPress** e o **MariaDB** como banco de dados.
 
 A imagem utilizada do PHP com Nginx é fornecida pelo [webdevops/php-nginx](https://hub.docker.com/r/webdevops/php-nginx).
 
@@ -71,4 +71,4 @@ volumes:
 
 ---
 
-Projeto criado para entrega de desafio no Bootcamp DIO – **DevOps com Docker Compose**.
+Criei esse projeto para entrega de desafio no Bootcamp DIO – **DevOps com Docker Compose**.
