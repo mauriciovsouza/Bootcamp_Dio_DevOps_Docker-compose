@@ -71,4 +71,4 @@ volumes:
 
 ---
 
-Projeto criado como parte do aprendizado no Bootcamp DIO – **DevOps com Docker Compose**.
+Projeto criado para entrega de desafio no Bootcamp DIO – **DevOps com Docker Compose**.
